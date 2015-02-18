@@ -1099,6 +1099,34 @@
           <source>Потребуется перезапуск для применения настроек</source>
           <target state="translated">Знадобиться перезапуск для застосування налаштувань</target>
         </trans-unit>
+        <trans-unit id="New_friends" translate="yes" xml:space="preserve">
+          <source>Новых друзей:</source>
+          <target state="translated">Нових друзів:</target>
+        </trans-unit>
+        <trans-unit id="LastActyvity1" translate="yes" xml:space="preserve">
+          <source>Заходила</source>
+          <target state="translated">Була в мережі</target>
+        </trans-unit>
+        <trans-unit id="LastActyvity2" translate="yes" xml:space="preserve">
+          <source>Заходил</source>
+          <target state="translated">Був в мережі</target>
+        </trans-unit>
+        <trans-unit id="today" translate="yes" xml:space="preserve">
+          <source>сегодня</source>
+          <target state="translated">сьогодні</target>
+        </trans-unit>
+        <trans-unit id="yesterday" translate="yes" xml:space="preserve">
+          <source>вчера</source>
+          <target state="translated">учора</target>
+        </trans-unit>
+        <trans-unit id="LastActivity" translate="yes" xml:space="preserve">
+          <source>последняя активность: </source>
+          <target state="translated">Остання активність: </target>
+        </trans-unit>
+        <trans-unit id="in1" translate="yes" xml:space="preserve">
+          <source>в</source>
+          <target state="translated">о</target>
+        </trans-unit>
       </group>
     </body>
   </file>

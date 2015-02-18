@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en" target-language="be" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
@@ -1098,6 +1098,34 @@
         <trans-unit id="need_restart" translate="yes" xml:space="preserve">
           <source>Потребуется перезапуск для применения настроек</source>
           <target state="translated">Будзе патрэбна перазапусціць праграму для прымянення налад</target>
+        </trans-unit>
+        <trans-unit id="New_friends" translate="yes" xml:space="preserve">
+          <source>Новых друзей:</source>
+          <target state="new">Новых друзей:</target>
+        </trans-unit>
+        <trans-unit id="LastActyvity1" translate="yes" xml:space="preserve">
+          <source>Заходила</source>
+          <target state="new">Заходила</target>
+        </trans-unit>
+        <trans-unit id="LastActyvity2" translate="yes" xml:space="preserve">
+          <source>Заходил</source>
+          <target state="new">Заходил</target>
+        </trans-unit>
+        <trans-unit id="today" translate="yes" xml:space="preserve">
+          <source>сегодня</source>
+          <target state="new">сегодня</target>
+        </trans-unit>
+        <trans-unit id="yesterday" translate="yes" xml:space="preserve">
+          <source>вчера</source>
+          <target state="new">вчера</target>
+        </trans-unit>
+        <trans-unit id="in1" translate="yes" xml:space="preserve">
+          <source>в</source>
+          <target state="new">в</target>
+        </trans-unit>
+        <trans-unit id="LastActivity" translate="yes" xml:space="preserve">
+          <source>последняя активность: </source>
+          <target state="new">последняя активность: </target>
         </trans-unit>
       </group>
     </body>
