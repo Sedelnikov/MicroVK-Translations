@@ -100,7 +100,7 @@
         </trans-unit>
         <trans-unit id="Info" translate="yes" xml:space="preserve">
           <source>Информация</source>
-          <target state="translated">Інфармацыя</target>
+          <target state="translated">Мой профіль</target>
         </trans-unit>
         <trans-unit id="Instrumental" translate="yes" xml:space="preserve">
           <source>Инструментальная</source>
@@ -148,7 +148,7 @@
         </trans-unit>
         <trans-unit id="Other" translate="yes" xml:space="preserve">
           <source>Прочее</source>
-          <target state="translated">Астатняе</target>
+          <target state="translated">Іньшае</target>
         </trans-unit>
         <trans-unit id="Photo" translate="yes" xml:space="preserve">
           <source>Фото</source>
@@ -188,7 +188,7 @@
         </trans-unit>
         <trans-unit id="search" translate="yes" xml:space="preserve">
           <source>Поиск</source>
-          <target state="translated">Пошук</target>
+          <target state="translated">Шукаць</target>
         </trans-unit>
         <trans-unit id="Settings" translate="yes" xml:space="preserve">
           <source>Настройки</source>
@@ -236,7 +236,7 @@
         </trans-unit>
         <trans-unit id="Basic_Information" translate="yes" xml:space="preserve">
           <source>Основная информация</source>
-          <target state="translated">Аснауная інфармацыя</target>
+          <target state="translated">Аснаўная інфармацыя</target>
         </trans-unit>
         <trans-unit id="Beliefs" translate="yes" xml:space="preserve">
           <source>Жизненная позиция</source>
@@ -260,7 +260,7 @@
         </trans-unit>
         <trans-unit id="contact_information" translate="yes" xml:space="preserve">
           <source>Контактная информация</source>
-          <target state="translated" state-qualifier="tm-suggestion">Звесткі аб кантактах</target>
+          <target state="translated" state-qualifier="tm-suggestion">Кантактная інфармацыя</target>
         </trans-unit>
         <trans-unit id="detailed_information" translate="yes" xml:space="preserve">
           <source>Подробная информация</source>
@@ -280,27 +280,27 @@
         </trans-unit>
         <trans-unit id="favorite_Books" translate="yes" xml:space="preserve">
           <source>Любимые книги</source>
-          <target state="translated">Улюбёныя кнігі</target>
+          <target state="translated">Любімыя кнігі</target>
         </trans-unit>
         <trans-unit id="favorite_films" translate="yes" xml:space="preserve">
           <source>Любимые фильмы</source>
-          <target state="translated">Улюбёныя фільмы</target>
+          <target state="translated">Любімыя фільмы</target>
         </trans-unit>
         <trans-unit id="favorite_games" translate="yes" xml:space="preserve">
           <source>Любимые игры</source>
-          <target state="translated">Улюбёныя гульні</target>
+          <target state="translated">Любімыя гульні</target>
         </trans-unit>
         <trans-unit id="favorite_music" translate="yes" xml:space="preserve">
           <source>Любимая музыка</source>
-          <target state="translated">Улюбёная музыка</target>
+          <target state="translated">Любімая музыка</target>
         </trans-unit>
         <trans-unit id="favorite_Quotes" translate="yes" xml:space="preserve">
           <source>Любимые цитаты</source>
-          <target state="translated">Улюбёныя цытаты</target>
+          <target state="translated">Любімыя цытаты</target>
         </trans-unit>
         <trans-unit id="Favourite_teleshows" translate="yes" xml:space="preserve">
           <source>Любимые телешоу</source>
-          <target state="translated">Улюбёныя тэлешоу</target>
+          <target state="translated">Любімыя тэлешоу</target>
         </trans-unit>
         <trans-unit id="Followers" translate="yes" xml:space="preserve">
           <source>Подписчики</source>
@@ -372,19 +372,19 @@
         </trans-unit>
         <trans-unit id="Notification61" translate="yes" xml:space="preserve">
           <source>Пользователь начал набирать текст в диалоге</source>
-          <target state="translated">Пачаў набіраць паведамленне ў дыялоге</target>
+          <target state="translated">Набірае тэкст у дыялоге</target>
         </trans-unit>
         <trans-unit id="Notification62" translate="yes" xml:space="preserve">
           <source>Пользователь начал набирать текст в беседе</source>
-          <target state="translated">Пачаў набіраць паведамленне ў бяседзе</target>
+          <target state="translated">Набірае тэкст у бяседзе</target>
         </trans-unit>
         <trans-unit id="Notification8" translate="yes" xml:space="preserve">
           <source>Друг стал онлайн</source>
-          <target state="translated">Сябр зайшоў на сайт</target>
+          <target state="translated">Зайшоў на сайт</target>
         </trans-unit>
         <trans-unit id="Notification9" translate="yes" xml:space="preserve">
           <source>Друг стал оффлайн</source>
-          <target state="translated">Сябр выйшаў з сайта</target>
+          <target state="translated">Выйшаў з сайта</target>
         </trans-unit>
         <trans-unit id="number_messages" translate="yes" xml:space="preserve">
           <source>Количество сообщений</source>
@@ -484,7 +484,7 @@
         </trans-unit>
         <trans-unit id="BrowserLoginButton" translate="yes" xml:space="preserve">
           <source>Получить ссылку для входа</source>
-          <target state="translated">Атрымаць сылку для ўвахода</target>
+          <target state="translated">Атрымаць спасылку для ўвахода</target>
         </trans-unit>
         <trans-unit id="Close" translate="yes" xml:space="preserve">
           <source>Закрыть</source>
@@ -512,7 +512,7 @@
         </trans-unit>
         <trans-unit id="License1" translate="yes" xml:space="preserve">
           <source>Использование «MicroVK» подразумевает, что Вы принимаете условия настоящего</source>
-          <target state="translated">Выкарыстанне «MicroVK» падрузамляе, што Вы прымаеце умовы дадзенага</target>
+          <target state="translated">Выкарыстанне «MicroVK» падрузамляе, што Вы прымаеце ўмовы дадзенага</target>
         </trans-unit>
         <trans-unit id="License2" translate="yes" xml:space="preserve">
           <source>лицензионного соглашения</source>
@@ -532,7 +532,7 @@
         </trans-unit>
         <trans-unit id="Remove_attachments" translate="yes" xml:space="preserve">
           <source>Удалить вложения</source>
-          <target state="translated" state-qualifier="tm-suggestion">Выдаліць укладанні</target>
+          <target state="translated" state-qualifier="tm-suggestion">выдаліць ўкладанні</target>
         </trans-unit>
         <trans-unit id="Repeat" translate="yes" xml:space="preserve">
           <source>Повторять</source>
@@ -580,15 +580,15 @@
         </trans-unit>
         <trans-unit id="SystemSettings5" translate="yes" xml:space="preserve">
           <source>Проверять ссылки</source>
-          <target state="translated">Правяаць сылкі</target>
+          <target state="translated">Правяраць спасылкі</target>
         </trans-unit>
         <trans-unit id="SystemSettings6" translate="yes" xml:space="preserve">
           <source>Не сворачивать главное окно в трей</source>
-          <target state="translated">Не зварачваць галоўнае акно ў трэй</target>
+          <target state="translated">Не згортваць галоўнае акно ў трэй</target>
         </trans-unit>
         <trans-unit id="SystemSettings8" translate="yes" xml:space="preserve">
           <source>Сброс всех настроек</source>
-          <target state="translated" state-qualifier="tm-suggestion">Скіданне ўсіх наладаў</target>
+          <target state="translated" state-qualifier="tm-suggestion">Скід ўсіх налад</target>
         </trans-unit>
         <trans-unit id="Text" translate="yes" xml:space="preserve">
           <source>Текст</source>
@@ -620,11 +620,11 @@
         </trans-unit>
         <trans-unit id="VoiceSampleText" translate="yes" xml:space="preserve">
           <source>Использовать следующий текст для пробы голоса:</source>
-          <target state="translated">Ужываць наступны тэкст для побы голасу</target>
+          <target state="translated">Ужываць наступны тэкст для пробы голасу</target>
         </trans-unit>
         <trans-unit id="VoiceSelect" translate="yes" xml:space="preserve">
           <source>Выберите голос </source>
-          <target state="translated">Выбярыця голас</target>
+          <target state="translated">Выберыце голас</target>
         </trans-unit>
         <trans-unit id="VoiceSpeed" translate="yes" xml:space="preserve">
           <source>Скорость произношения:</source>
@@ -636,7 +636,7 @@
         </trans-unit>
         <trans-unit id="VoiceText" translate="yes" xml:space="preserve">
           <source>Даная функция все еще находиться в разработке, тоесть не работает</source>
-          <target state="translated">Гэты функцыя яшчэ распрацоўваецца, значыць не работае</target>
+          <target state="translated">Даная функцыя усё яшчэ знаходзіцца ў распрацоўцы, гэта значыць не працуе</target>
         </trans-unit>
         <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
           <source>О программе..</source>
@@ -668,7 +668,7 @@
         </trans-unit>
         <trans-unit id="ApiError113" translate="yes" xml:space="preserve">
           <source>Неверный идентификатор пользователя</source>
-          <target state="translated">Няпавільны ідэнтыфікатар карыстальніка</target>
+          <target state="translated">Няправільны ідэнтыфікатар карыстальніка</target>
         </trans-unit>
         <trans-unit id="ApiError14" translate="yes" xml:space="preserve">
           <source>Введите код</source>
@@ -696,7 +696,7 @@
         </trans-unit>
         <trans-unit id="ApiError20" translate="yes" xml:space="preserve">
           <source>Данное действие запрещено для не Standalone приложений</source>
-          <target state="translated">Гэта дзеянне забаронена дя не Standalone праграм</target>
+          <target state="translated">Гэта дзеянне забаронена для не Standalone праграм</target>
         </trans-unit>
         <trans-unit id="ApiError200" translate="yes" xml:space="preserve">
           <source>Доступ к альбому запрещен</source>
@@ -764,11 +764,11 @@
         </trans-unit>
         <trans-unit id="AttachmentError1" translate="yes" xml:space="preserve">
           <source>Превышено количество вложений</source>
-          <target state="translated">Колкасць улаженняў агранічана</target>
+          <target state="translated">Колкасць укаладанняў агранічана</target>
         </trans-unit>
         <trans-unit id="AttachmentError2" translate="yes" xml:space="preserve">
           <source>К сообщению можно прикрепить не более десяти вложений</source>
-          <target state="translated">Ды паведамлення можна прымацаць не больш за дзесяць улаженняў</target>
+          <target state="translated">Ды паведамлення можна прымацаць не больш за дзесяць укладанняў</target>
         </trans-unit>
         <trans-unit id="BadUrl" translate="yes" xml:space="preserve">
           <source>Опасная ссылка</source>
@@ -824,7 +824,7 @@
         </trans-unit>
         <trans-unit id="friend_offline" translate="yes" xml:space="preserve">
           <source>друг вышел из сети</source>
-          <target state="translated">сябр выйшаў з сайта</target>
+          <target state="translated">выйшаў з сайта</target>
         </trans-unit>
         <trans-unit id="friend_offline1" translate="yes" xml:space="preserve">
           <source>вышла из сети</source>
@@ -836,7 +836,7 @@
         </trans-unit>
         <trans-unit id="friend_online" translate="yes" xml:space="preserve">
           <source>друг появился в сети</source>
-          <target state="translated">сябр зайшоў на сайт</target>
+          <target state="translated">зайшоў на сайт</target>
         </trans-unit>
         <trans-unit id="friend_online1" translate="yes" xml:space="preserve">
           <source>появилась в сети</source>
@@ -848,11 +848,11 @@
         </trans-unit>
         <trans-unit id="friend_typing" translate="yes" xml:space="preserve">
           <source>пишет вам сообщение</source>
-          <target state="translated">набірае вам паведамленне</target>
+          <target state="translated">набірае тэкст у дыялое</target>
         </trans-unit>
         <trans-unit id="friend_typing_chat" translate="yes" xml:space="preserve">
           <source>пишет сообщение в беседе</source>
-          <target state="translated">набіае паведамленне ў бяседзе
+          <target state="translated">набірае тэкст у бяседзе
 </target>
         </trans-unit>
         <trans-unit id="GoToDialog" translate="yes" xml:space="preserve">
@@ -873,7 +873,7 @@
         </trans-unit>
         <trans-unit id="Invisible_enabled" translate="yes" xml:space="preserve">
           <source>Режим "Невидимка" включен</source>
-          <target state="translated">Рэжым "Невядзімкі" уключаны</target>
+          <target state="translated">Рэжым "Невядзімкі" ўключаны</target>
         </trans-unit>
         <trans-unit id="is_typing" translate="yes" xml:space="preserve">
           <source>набирает текст</source>
@@ -913,7 +913,7 @@
         </trans-unit>
         <trans-unit id="NotifycationConvert9" translate="yes" xml:space="preserve">
           <source>Оффлайн</source>
-          <target state="translated">Няма на сайце</target>
+          <target state="translated">Не на сайцк</target>
         </trans-unit>
         <trans-unit id="notifycation_aligment" translate="yes" xml:space="preserve">
           <source>Задано новое расположение уведомлений</source>
@@ -921,7 +921,7 @@
         </trans-unit>
         <trans-unit id="notifycation_color_prewiew" translate="yes" xml:space="preserve">
           <source>Предпросмотр нового цвета уведомления</source>
-          <target state="translated">Прадпргляд новага колера паведамлення</target>
+          <target state="translated">Прадпрагляд новага колера паведамлення</target>
         </trans-unit>
         <trans-unit id="opacity" translate="yes" xml:space="preserve">
           <source>Непрозрачность:</source>
@@ -1025,7 +1025,7 @@
         </trans-unit>
         <trans-unit id="read_your_message" translate="yes" xml:space="preserve">
           <source>ваше сообщение было прочтено</source>
-          <target state="translated">ваша паведамленне была прачытана</target>
+          <target state="translated">ваша паведамленне было прачытана</target>
         </trans-unit>
         <trans-unit id="read_your_message1" translate="yes" xml:space="preserve">
           <source>прочла ваше сообщение</source>
@@ -1045,7 +1045,7 @@
         </trans-unit>
         <trans-unit id="setaudioStatus" translate="yes" xml:space="preserve">
           <source>Аудиостатус установлен</source>
-          <target state="translated">Аўдыязапіс усталяваны</target>
+          <target state="translated">Аўдыястатус усталяваны</target>
         </trans-unit>
         <trans-unit id="smoking1" translate="yes" xml:space="preserve">
           <source>Резко негативное</source>
@@ -1069,7 +1069,7 @@
         </trans-unit>
         <trans-unit id="successfully_updated" translate="yes" xml:space="preserve">
           <source>Программа успешно обновлена</source>
-          <target state="translated">Праграма паспяхова абнаўлена</target>
+          <target state="translated">Праграма паспяхова абноўлена</target>
         </trans-unit>
         <trans-unit id="themeDark" translate="yes" xml:space="preserve">
           <source>Темная</source>
@@ -1101,31 +1101,31 @@
         </trans-unit>
         <trans-unit id="New_friends" translate="yes" xml:space="preserve">
           <source>Новых друзей:</source>
-          <target state="new">Новых друзей:</target>
+          <target state="translated">Новых сяброў:</target>
         </trans-unit>
         <trans-unit id="LastActyvity1" translate="yes" xml:space="preserve">
           <source>Заходила</source>
-          <target state="new">Заходила</target>
+          <target state="translated">Заходзіла</target>
         </trans-unit>
         <trans-unit id="LastActyvity2" translate="yes" xml:space="preserve">
           <source>Заходил</source>
-          <target state="new">Заходил</target>
+          <target state="translated">Захадзіў</target>
         </trans-unit>
         <trans-unit id="today" translate="yes" xml:space="preserve">
           <source>сегодня</source>
-          <target state="new">сегодня</target>
+          <target state="translated">сёння</target>
         </trans-unit>
         <trans-unit id="yesterday" translate="yes" xml:space="preserve">
           <source>вчера</source>
-          <target state="new">вчера</target>
+          <target state="translated">ўчора</target>
         </trans-unit>
         <trans-unit id="in1" translate="yes" xml:space="preserve">
           <source>в</source>
-          <target state="new">в</target>
+          <target state="translated">ў</target>
         </trans-unit>
         <trans-unit id="LastActivity" translate="yes" xml:space="preserve">
           <source>последняя активность: </source>
-          <target state="new">последняя активность: </target>
+          <target state="translated">апошняя актыўнасць: </target>
         </trans-unit>
       </group>
     </body>
