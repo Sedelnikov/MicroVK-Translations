@@ -1127,6 +1127,14 @@
           <source>в</source>
           <target state="translated">о</target>
         </trans-unit>
+        <trans-unit id="WelcomeBack" translate="yes" xml:space="preserve">
+          <source>{0}, похоже вы уже использовали MicroVK ранее, хотите восстановить свои настройки?</source>
+          <target state="translated">{0}, схоже ви вже використовували MicroVK раніше, хочете відновити свої налаштування?</target>
+        </trans-unit>
+        <trans-unit id="WelcomeBack1" translate="yes" xml:space="preserve">
+          <source>С возвращением!</source>
+          <target state="translated">З поверненням!</target>
+        </trans-unit>
       </group>
     </body>
   </file>
