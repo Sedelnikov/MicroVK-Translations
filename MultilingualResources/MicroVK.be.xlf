@@ -636,7 +636,7 @@
         </trans-unit>
         <trans-unit id="VoiceText" translate="yes" xml:space="preserve">
           <source>Даная функция все еще находиться в разработке, тоесть не работает</source>
-          <target state="translated">Даная функцыя усё яшчэ знаходзіцца ў распрацоўцы, гэта значыць не працуе</target>
+          <target state="translated">Даная функцыя ўсё яшчэ знаходзіцца ў распрацоўцы, гэта значыць не працуе</target>
         </trans-unit>
         <trans-unit id="AboutProgramm" translate="yes" xml:space="preserve">
           <source>О программе..</source>
@@ -913,7 +913,7 @@
         </trans-unit>
         <trans-unit id="NotifycationConvert9" translate="yes" xml:space="preserve">
           <source>Оффлайн</source>
-          <target state="translated">Не на сайцк</target>
+          <target state="translated">Не на сайце</target>
         </trans-unit>
         <trans-unit id="notifycation_aligment" translate="yes" xml:space="preserve">
           <source>Задано новое расположение уведомлений</source>
@@ -1129,11 +1129,11 @@
         </trans-unit>
         <trans-unit id="WelcomeBack" translate="yes" xml:space="preserve">
           <source>{0}, похоже вы уже использовали MicroVK ранее, хотите восстановить свои настройки?</source>
-          <target state="new">{0}, похоже вы уже использовали MicroVK ранее, хотите восстановить свои настройки?</target>
+          <target state="translated">{0}, вы ўжо карысталісь MicroVK раней, хочаце аднавіць свае налады?</target>
         </trans-unit>
         <trans-unit id="WelcomeBack1" translate="yes" xml:space="preserve">
           <source>С возвращением!</source>
-          <target state="new">С возвращением!</target>
+          <target state="translated">З вяртаннем!</target>
         </trans-unit>
       </group>
     </body>
