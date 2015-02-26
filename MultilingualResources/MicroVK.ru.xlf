@@ -582,10 +582,6 @@
           <source>Проверять ссылки</source>
           <target state="new">Проверять ссылки</target>
         </trans-unit>
-        <trans-unit id="SystemSettings6" translate="yes" xml:space="preserve">
-          <source>Не сворачивать главное окно в трей</source>
-          <target state="new">Не сворачивать главное окно в трей</target>
-        </trans-unit>
         <trans-unit id="SystemSettings8" translate="yes" xml:space="preserve">
           <source>Сброс всех настроек</source>
           <target state="new">Сброс всех настроек</target>
@@ -1133,6 +1129,10 @@
         <trans-unit id="WelcomeBack1" translate="yes" xml:space="preserve">
           <source>С возвращением!</source>
           <target state="new">С возвращением!</target>
+        </trans-unit>
+        <trans-unit id="SystemSettings9" translate="yes" xml:space="preserve">
+          <source>Не убирать MicroVK из панели задач</source>
+          <target state="new">Не убирать MicroVK из панели задач</target>
         </trans-unit>
       </group>
     </body>
