@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en" target-language="be" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="ru" target-language="be" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1132.0" tool-company="Microsoft" />
     </header>
@@ -1134,6 +1134,26 @@
         <trans-unit id="SystemSettings9" translate="yes" xml:space="preserve">
           <source>Не убирать MicroVK из панели задач</source>
           <target state="new">Не убирать MicroVK из панели задач</target>
+        </trans-unit>
+        <trans-unit id="dialogues" translate="yes" xml:space="preserve">
+          <source>Диалогов</source>
+          <target state="new">Диалогов</target>
+        </trans-unit>
+        <trans-unit id="Minimize" translate="yes" xml:space="preserve">
+          <source>Свернуть</source>
+          <target state="new">Свернуть</target>
+        </trans-unit>
+        <trans-unit id="SystemSettings10" translate="yes" xml:space="preserve">
+          <source>Закрывать окно по нажатию на кнопку "Закрыть"</source>
+          <target state="new">Закрывать окно по нажатию на кнопку "Закрыть"</target>
+        </trans-unit>
+        <trans-unit id="Pin" translate="yes" xml:space="preserve">
+          <source>Закрепить</source>
+          <target state="new">Закрепить</target>
+        </trans-unit>
+        <trans-unit id="HidePlayer" translate="yes" xml:space="preserve">
+          <source>Сворачивать окно плеера</source>
+          <target state="new">Сворачивать окно плеера</target>
         </trans-unit>
       </group>
     </body>

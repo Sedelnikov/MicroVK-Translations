@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en" target-language="uk" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="ru" target-language="uk" original="MICROVK/MY PROJECT/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1132.0" tool-company="Microsoft" />
     </header>
@@ -124,8 +124,7 @@
         </trans-unit>
         <trans-unit id="current_playlist" translate="yes" xml:space="preserve">
           <source>Текущий плейлист</source>
-          <target state="translated">Поточний список
-</target>
+          <target state="translated">Поточний список</target>
         </trans-unit>
         <trans-unit id="Dance_and_House" translate="yes" xml:space="preserve">
           <source>Танцевальная и Хаус</source>
@@ -1134,6 +1133,26 @@
         <trans-unit id="SystemSettings9" translate="yes" xml:space="preserve">
           <source>Не убирать MicroVK из панели задач</source>
           <target state="translated">Не прибирати MicroVK з панелі завдань</target>
+        </trans-unit>
+        <trans-unit id="dialogues" translate="yes" xml:space="preserve">
+          <source>Диалогов</source>
+          <target state="translated">Діалогів</target>
+        </trans-unit>
+        <trans-unit id="Minimize" translate="yes" xml:space="preserve">
+          <source>Свернуть</source>
+          <target state="translated">Згорнути</target>
+        </trans-unit>
+        <trans-unit id="SystemSettings10" translate="yes" xml:space="preserve">
+          <source>Закрывать окно по нажатию на кнопку "Закрыть"</source>
+          <target state="translated">Закривати вікно після натискання на кнопку "Закрити"</target>
+        </trans-unit>
+        <trans-unit id="Pin" translate="yes" xml:space="preserve">
+          <source>Закрепить</source>
+          <target state="translated">Закріпити</target>
+        </trans-unit>
+        <trans-unit id="HidePlayer" translate="yes" xml:space="preserve">
+          <source>Сворачивать окно плеера</source>
+          <target state="translated">Згортати вікно плеєра</target>
         </trans-unit>
       </group>
     </body>
