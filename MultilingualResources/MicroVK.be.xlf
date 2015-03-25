@@ -1133,27 +1133,27 @@
         </trans-unit>
         <trans-unit id="SystemSettings9" translate="yes" xml:space="preserve">
           <source>Не убирать MicroVK из панели задач</source>
-          <target state="new">Не убирать MicroVK из панели задач</target>
+          <target state="translated">Не ўбіраць MicroVK з панэлі задач</target>
         </trans-unit>
         <trans-unit id="dialogues" translate="yes" xml:space="preserve">
           <source>Диалогов</source>
-          <target state="new">Диалогов</target>
+          <target state="translated">Дыялогаў</target>
         </trans-unit>
         <trans-unit id="Minimize" translate="yes" xml:space="preserve">
           <source>Свернуть</source>
-          <target state="new">Свернуть</target>
+          <target state="translated">Згарнуць</target>
         </trans-unit>
         <trans-unit id="SystemSettings10" translate="yes" xml:space="preserve">
           <source>Закрывать окно по нажатию на кнопку "Закрыть"</source>
-          <target state="new">Закрывать окно по нажатию на кнопку "Закрыть"</target>
+          <target state="translated">Зачыняць акно па націску на кнопку "Зачыніць"</target>
         </trans-unit>
         <trans-unit id="Pin" translate="yes" xml:space="preserve">
           <source>Закрепить</source>
-          <target state="new">Закрепить</target>
+          <target state="translated">Замацаваць</target>
         </trans-unit>
         <trans-unit id="HidePlayer" translate="yes" xml:space="preserve">
           <source>Сворачивать окно плеера</source>
-          <target state="new">Сворачивать окно плеера</target>
+          <target state="translated">Згартваць акно плэера</target>
         </trans-unit>
       </group>
     </body>
